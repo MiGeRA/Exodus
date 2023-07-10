@@ -1,0 +1,65 @@
+﻿  tif_aux.c
+  tif_close.c
+  tif_codec.c
+  tif_color.c
+  tif_compress.c
+  tif_dir.c
+  tif_dirinfo.c
+  tif_dirread.c
+  tif_dirwrite.c
+  tif_dumpmode.c
+  tif_error.c
+  tif_extension.c
+  tif_fax3.c
+  tif_fax3sm.c
+  tif_flush.c
+  tif_getimage.c
+  tif_jbig.c
+  tif_jpeg.c
+  tif_jpeg_12.c
+  tif_luv.c
+  Компиляция...
+  tif_lzw.c
+  tif_next.c
+  tif_ojpeg.c
+  tif_open.c
+  tif_packbits.c
+  tif_pixarlog.c
+  tif_predict.c
+  tif_print.c
+  tif_read.c
+  tif_strip.c
+  tif_swab.c
+  tif_thunder.c
+  tif_tile.c
+  tif_version.c
+  tif_warning.c
+  tif_win32.c
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(242): warning C4312: приведение типов: преобразование из "int" в "thandle_t" большего размера
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(287): warning C4311: приведение типов: усечение указателя из "thandle_t" в "int"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(342): warning C4311: приведение типов: усечение указателя из "thandle_t" в "int"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(415): warning C4133: :: несовместимые типы - из "const char *" в "LPCTSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(416): warning C4133: функция: несовместимые типы - из "LPCTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(417): warning C4133: функция: несовместимые типы - из "LPCTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(421): warning C4133: функция: несовместимые типы - из "LPTSTR" в "char *const "
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(421): warning C4133: функция: несовместимые типы - из "LPCTSTR" в "const char *const "
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(422): warning C4133: функция: несовместимые типы - из "LPTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(423): warning C4133: функция: несовместимые типы - из "LPTSTR" в "char *const "
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(423): warning C4133: функция: несовместимые типы - из "LPTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(424): warning C4133: функция: несовместимые типы - из "LPTSTR" в "LPCSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(413): warning C4133: инициализация: несовместимые типы - из "char [11]" в "LPCTSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(414): warning C4133: инициализация: несовместимые типы - из "char [8]" в "LPCTSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(446): warning C4133: :: несовместимые типы - из "const char *" в "LPCTSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(447): warning C4133: функция: несовместимые типы - из "LPCTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(448): warning C4133: функция: несовместимые типы - из "LPCTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(452): warning C4133: функция: несовместимые типы - из "LPTSTR" в "char *const "
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(452): warning C4133: функция: несовместимые типы - из "LPCTSTR" в "const char *const "
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(453): warning C4133: функция: несовместимые типы - из "LPTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(454): warning C4133: функция: несовместимые типы - из "LPTSTR" в "char *const "
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(454): warning C4133: функция: несовместимые типы - из "LPTSTR" в "const char *"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(455): warning C4133: функция: несовместимые типы - из "LPTSTR" в "LPCSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(444): warning C4133: инициализация: несовместимые типы - из "char [9]" в "LPCTSTR"
+c:\users\user\source\repos\exodus-master\third\libtiff\tiff-4.0.9\libtiff\tif_win32.c(445): warning C4133: инициализация: несовместимые типы - из "char [8]" в "LPCTSTR"
+  tif_write.c
+  tif_zip.c
+  libtiff.vcxproj -> C:\Users\user\source\repos\Exodus-master\Third\libtiff\tiff-4.0.9\libtiffx64.lib

@@ -1,0 +1,9 @@
+﻿  DebugMenuHandler.cpp
+  interface.cpp
+  MemoryEditorView.cpp
+  MemoryEditorViewPresenter.cpp
+  MemoryMenus.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\MemoryMenus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\MemoryMenus.exp
+  Создание кода
+  Создание кода завершено
+  MemoryMenus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\MemoryMenus.dll

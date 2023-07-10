@@ -1,0 +1,5 @@
+﻿  MemoryBarrier.cpp
+  ReadWriteLock.cpp
+  ReferenceCounter.cpp
+  ThreadLib.cpp
+  ThreadLib.vcxproj -> C:\Users\user\source\repos\Exodus-master\x64\Output\Release\ThreadLib\ThreadLib.lib

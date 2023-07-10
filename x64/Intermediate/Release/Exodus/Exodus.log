@@ -1,0 +1,22 @@
+﻿  AboutView.cpp
+  AboutViewPresenter.cpp
+  CreateDashboardView.cpp
+  CreateDashboardViewPresenter.cpp
+  DeviceInfo.cpp
+  ExodusInterface.cpp
+  ExtensionInfo.cpp
+  main.cpp
+  MenuHandler.cpp
+  MenuSegment.cpp
+  MenuSelectableOption.cpp
+  MenuSubmenu.cpp
+  ModuleManagerView.cpp
+  ModuleManagerViewPresenter.cpp
+  SettingsView.cpp
+  SettingsViewPresenter.cpp
+  SystemInfo.cpp
+  ViewManager.cpp
+  ViewStateChangeNotifier.cpp
+  Создание кода
+  Создание кода завершено
+  Exodus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Exodus.exe

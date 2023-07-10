@@ -1,0 +1,13 @@
+﻿  BusInterface.cpp
+  ClockSource.cpp
+  DataRemapTable.cpp
+  DeviceContext.cpp
+  ExecutionManager.cpp
+  interface.cpp
+  ModuleManager.cpp
+  System.cpp
+  System_Wnd.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\System.lib и объект C:\Users\user\source\repos\Exodus-master\\System.exp
+  Создание кода
+  Создание кода завершено
+  System.vcxproj -> C:\Users\user\source\repos\Exodus-master\\System.dll

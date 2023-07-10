@@ -1,0 +1,10 @@
+﻿  DebugMenuHandler.cpp
+  GenericAccessMenus.cpp
+  GenericDataView.cpp
+  GenericDataViewPresenter.cpp
+  interface.cpp
+  SettingsMenuHandler.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\GenericAccessMenus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\GenericAccessMenus.exp
+  Создание кода
+  Создание кода завершено
+  GenericAccessMenus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\GenericAccessMenus.dll

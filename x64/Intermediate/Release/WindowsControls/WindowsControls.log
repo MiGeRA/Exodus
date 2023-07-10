@@ -1,0 +1,9 @@
+﻿  DashboardWindow.cpp
+  DockingWindow.cpp
+  WC_DataGrid.cpp
+  WC_DockPanel.cpp
+  WC_HexEdit.cpp
+  WC_LayoutGrid.cpp
+  WC_ScrollViewer.cpp
+  WC_StackPanel.cpp
+  WindowsControls.vcxproj -> C:\Users\user\source\repos\Exodus-master\x64\Output\Release\WindowsControls\WindowsControls.lib

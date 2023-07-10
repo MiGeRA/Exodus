@@ -1,0 +1,31 @@
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\ram16.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\rom8.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\ram8.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\rom8variable.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\ram32variable.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\rom32variable.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\ram32.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\ram8variable.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\timedbufferint.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\interface.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\rom16.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\timedbufferintdevice.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\ram16variable.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\sharedram.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memorywrite.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\rom16variable.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memoryread.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\rom32.obj
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.pdb
+c:\users\user\source\repos\exodus-master\staticmodules\memory.lib
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.res
+c:\users\user\source\repos\exodus-master\\staticmodules\memory.lib
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\cl.14684.write.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\cl.command.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\cl.read.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\lib-link-cvtres.read.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\lib-link-cvtres.write.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\lib.command.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\rc.command.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\rc.read.1.tlog
+c:\users\user\source\repos\exodus-master\x64\intermediate\release - static\memory\memory.tlog\rc.write.1.tlog

@@ -1,0 +1,17 @@
+﻿  GenericAccessCommandInfo.cpp
+  GenericAccessDataInfo.cpp
+  GenericAccessDataValueBool.cpp
+  GenericAccessDataValueDouble.cpp
+  GenericAccessDataValueFilePath.cpp
+  GenericAccessDataValueFloat.cpp
+  GenericAccessDataValueFolderPath.cpp
+  GenericAccessDataValueInt.cpp
+  GenericAccessDataValueString.cpp
+  GenericAccessDataValueUInt.cpp
+  GenericAccessGroup.cpp
+  GenericAccessGroupCollectionEntry.cpp
+  GenericAccessGroupCommandEntry.cpp
+  GenericAccessGroupDataEntry.cpp
+  GenericAccessGroupSingleSelectionList.cpp
+  GenericAccessPage.cpp
+  GenericAccess.vcxproj -> C:\Users\user\source\repos\Exodus-master\x64\Output\Release\GenericAccess\GenericAccess.lib

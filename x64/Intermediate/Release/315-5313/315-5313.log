@@ -1,0 +1,9 @@
+﻿  interface.cpp
+  S315-5313_General.cpp
+  S315-5313_Ports.cpp
+  S315-5313_Rendering.cpp
+  S315-5313_Timing.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\315-5313.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\315-5313.exp
+  Создание кода
+  Создание кода завершено
+  315-5313.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\315-5313.dll

@@ -1,0 +1,13 @@
+﻿  DebuggerView.cpp
+  DebuggerViewPresenter.cpp
+  DebugMenuHandler.cpp
+  interface.cpp
+  OperatorView.cpp
+  OperatorViewPresenter.cpp
+  RegistersView.cpp
+  RegistersViewPresenter.cpp
+  YM2612Menus.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\YM2612Menus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\YM2612Menus.exp
+  Создание кода
+  Создание кода завершено
+  YM2612Menus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\YM2612Menus.dll

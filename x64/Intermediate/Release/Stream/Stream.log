@@ -1,0 +1,5 @@
+﻿  Buffer.cpp
+  File.cpp
+  Stream.cpp
+  WAVFile.cpp
+  Stream.vcxproj -> C:\Users\user\source\repos\Exodus-master\x64\Output\Release\Stream\Stream.lib

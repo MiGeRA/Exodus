@@ -1,0 +1,9 @@
+﻿  DebugMenuHandler.cpp
+  ExceptionsView.cpp
+  ExceptionsViewPresenter.cpp
+  interface.cpp
+  M68000Menus.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\M68000Menus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\M68000Menus.exp
+  Создание кода
+  Создание кода завершено
+  M68000Menus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\M68000Menus.dll

@@ -1,0 +1,5 @@
+﻿  Breakpoint.cpp
+  OpcodeInfo.cpp
+  Processor.cpp
+  Watchpoint.cpp
+  Processor.vcxproj -> C:\Users\user\source\repos\Exodus-master\x64\Output\Release\Processor\Processor.lib

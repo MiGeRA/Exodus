@@ -1,0 +1,6 @@
+﻿  ConnectorInfo.cpp
+  LoadedModuleInfo.cpp
+  MenuHandlerBase.cpp
+  ViewBase.cpp
+  ViewPresenterBase.cpp
+  ExtensionInterface.vcxproj -> C:\Users\user\source\repos\Exodus-master\x64\Output\Release\ExtensionInterface\ExtensionInterface.lib

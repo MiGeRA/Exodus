@@ -1,0 +1,19 @@
+﻿  ActiveDisassemblyView.cpp
+  ActiveDisassemblyViewPresenter.cpp
+  CallStackView.cpp
+  CallStackViewPresenter.cpp
+  ControlView.cpp
+  ControlViewPresenter.cpp
+  DebugMenuHandler.cpp
+  DisassemblyView.cpp
+  DisassemblyViewPresenter.cpp
+  interface.cpp
+  ProcessorMenus.cpp
+  TraceView.cpp
+  TraceViewPresenter.cpp
+  WatchpointView.cpp
+  WatchpointViewPresenter.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\ProcessorMenus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\ProcessorMenus.exp
+  Создание кода
+  Создание кода завершено
+  ProcessorMenus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\ProcessorMenus.dll

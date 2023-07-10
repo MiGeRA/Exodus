@@ -1,0 +1,8 @@
+﻿  EffectiveAddress.cpp
+  interface.cpp
+  Z80.cpp
+  Z80Instruction.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\Z80.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\Z80.exp
+  Создание кода
+  Создание кода завершено
+  Z80.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\Z80.dll

@@ -1,0 +1,22 @@
+﻿  DebugMenuHandler.cpp
+  ImageView.cpp
+  ImageViewPresenter.cpp
+  interface.cpp
+  PaletteView.cpp
+  PaletteViewPresenter.cpp
+  PlaneView.cpp
+  PlaneViewPresenter.cpp
+  PortMonitorView.cpp
+  PortMonitorViewPresenter.cpp
+  RegistersView.cpp
+  RegistersViewPresenter.cpp
+  S315_5313Menus.cpp
+  SettingsMenuHandler.cpp
+  SpriteListView.cpp
+  SpriteListViewPresenter.cpp
+  VRAMView.cpp
+  VRAMViewPresenter.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\315-5313Menus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\315-5313Menus.exp
+  Создание кода
+  Создание кода завершено
+  315-5313Menus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\315-5313Menus.dll

@@ -1,0 +1,9 @@
+﻿  A10000.cpp
+  interface.cpp
+  MDBusArbiter.cpp
+  MDControl3.cpp
+  MDControl6.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\MD1600IO.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\MD1600IO.exp
+  Создание кода
+  Создание кода завершено
+  MD1600IO.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\MD1600IO.dll

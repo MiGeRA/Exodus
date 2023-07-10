@@ -1,0 +1,20 @@
+﻿  DebugMenuHandler.cpp
+  DeviceControlView.cpp
+  DeviceControlViewPresenter.cpp
+  EmbeddedROMView.cpp
+  EmbeddedROMViewPresenter.cpp
+  EventLogView.cpp
+  EventLogViewPresenter.cpp
+  ExodusSystemMenus.cpp
+  InputMappingDetailsView.cpp
+  InputMappingDetailsViewPresenter.cpp
+  InputMappingView.cpp
+  InputMappingViewPresenter.cpp
+  interface.cpp
+  ModuleOptionMenuHandler.cpp
+  SettingsMenuHandler.cpp
+  SystemMenuHandler.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\ExodusSystemMenus.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\ExodusSystemMenus.exp
+  Создание кода
+  Создание кода завершено
+  ExodusSystemMenus.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\ExodusSystemMenus.dll

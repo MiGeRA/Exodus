@@ -1,0 +1,54 @@
+﻿  jaricom.c
+  jcapimin.c
+  jcapistd.c
+  jcarith.c
+  jccoefct.c
+  jccolor.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdatadst.c
+c:\users\user\source\repos\exodus-master\third\libjpeg\jpeg-9a\jdatadst.c(185): warning C4267: =: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+  jerror.c
+  jmemmgr.c
+c:\users\user\source\repos\exodus-master\third\libjpeg\jpeg-9a\jmemmgr.c(307): warning C4267: +=: преобразование из "size_t" в "long"; возможна потеря данных
+c:\users\user\source\repos\exodus-master\third\libjpeg\jpeg-9a\jmemmgr.c(367): warning C4267: +=: преобразование из "size_t" в "long"; возможна потеря данных
+c:\users\user\source\repos\exodus-master\third\libjpeg\jpeg-9a\jmemmgr.c(977): warning C4267: -=: преобразование из "size_t" в "long"; возможна потеря данных
+c:\users\user\source\repos\exodus-master\third\libjpeg\jpeg-9a\jmemmgr.c(991): warning C4267: -=: преобразование из "size_t" в "long"; возможна потеря данных
+  jmemnobs.c
+  Компиляция...
+  jutils.c
+  jcdctmgr.c
+  jdapimin.c
+  jdapistd.c
+  jdarith.c
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jfdctflt.c
+  jfdctfst.c
+  Компиляция...
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  jquant1.c
+  jquant2.c
+  libjpeg.vcxproj -> C:\Users\user\source\repos\Exodus-master\Third\libjpeg\jpeg-9a\libjpegx64.lib

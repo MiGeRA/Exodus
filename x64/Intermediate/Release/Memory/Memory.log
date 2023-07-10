@@ -1,0 +1,22 @@
+﻿  interface.cpp
+  MemoryRead.cpp
+  MemoryWrite.cpp
+  RAM16.cpp
+  RAM16Variable.cpp
+  RAM32.cpp
+  RAM32Variable.cpp
+  RAM8.cpp
+  RAM8Variable.cpp
+  ROM16.cpp
+  ROM16Variable.cpp
+  ROM32.cpp
+  ROM32Variable.cpp
+  ROM8.cpp
+  ROM8Variable.cpp
+  SharedRAM.cpp
+  TimedBufferInt.cpp
+  TimedBufferIntDevice.cpp
+     Создается библиотека C:\Users\user\source\repos\Exodus-master\\Assemblies\Memory.lib и объект C:\Users\user\source\repos\Exodus-master\\Assemblies\Memory.exp
+  Создание кода
+  Создание кода завершено
+  Memory.vcxproj -> C:\Users\user\source\repos\Exodus-master\\Assemblies\Memory.dll

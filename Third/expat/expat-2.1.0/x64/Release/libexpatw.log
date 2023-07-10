@@ -1,0 +1,7 @@
+﻿  xmlparse.c
+c:\users\user\source\repos\exodus-master\third\expat\expat-2.1.0\lib\xmlparse.c(1844): warning C4244: return: преобразование "__int64" в "XML_Index", возможна потеря данных
+  xmlrole.c
+  xmltok.c
+  xmltok_impl.c
+  xmltok_ns.c
+  libexpatw.vcxproj -> C:\Users\user\source\repos\Exodus-master\Third\expat\expat-2.1.0\libexpatwx64.lib
